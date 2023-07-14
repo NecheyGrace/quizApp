@@ -1,0 +1,38 @@
+.quiz-app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .quiz-container {
+    margin-bottom: 20px;
+  }
+  
+  .question {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .options {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 10px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .score {
+    font-size: 20px;
+  }
+  
+  .footer {
+    font-size: 14px;
+    color: #888;
+  }
+  
